@@ -14,7 +14,7 @@ View для ознакомления актуального меню: катег
 
 ### Запуск
 ```bash
-git clone <repository-url>
+git clone https://github.com/tereyashechka/utf-case
 cd utf_case
 
 docker compose up -d --build
